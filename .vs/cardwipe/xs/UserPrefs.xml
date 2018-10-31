@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{225B6A00-AA12-43CF-A544-B681673E0433}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cardwipe/MainActivity.cs">
+    <Files>
+      <File FileName="cardwipe/MainActivity.cs" Line="31" Column="73" />
+      <File FileName="cardwipe/Models/Model.cs" Line="8" Column="18" />
+      <File FileName="cardwipe/Adapter/CardAdapter.cs" Line="40" Column="90" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.cardwipe AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.n5x" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dharmender/Projects/cardwipe/cardwipe/MainActivity.cs" relfile="cardwipe/MainActivity.cs" line="36" column="1" />
+      <Breakpoint file="/Users/dharmender/Projects/cardwipe/cardwipe/MainActivity.cs" relfile="cardwipe/MainActivity.cs" line="41" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
